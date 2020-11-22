@@ -1,0 +1,9 @@
+{
+  "name": "jwt-light",
+  "version": "0.0.1",
+  "description": "A lightweight jwt implementation - one that depends only on core modules",
+  "main": "index.js",
+  "repository": "git@github.com:adriaan-pelzer/jwt-light.git",
+  "author": "Adriaan Pelzer <adriaan.pelzer@gmail.com>",
+  "license": "MIT"
+}
